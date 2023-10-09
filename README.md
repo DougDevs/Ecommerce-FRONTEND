@@ -17,4 +17,3 @@ O website foi feito, principalmente, para a prática de hooks como useContext e 
 - e mais!  
 
 Projeto copyright
-criadora: github.com/aridsm (Ariane Morelato)
